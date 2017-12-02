@@ -1,0 +1,1 @@
+C_SRCS += $(wildcard $(TOP_DIR)/user/*.c)
